@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "429790073792",
+    "firebase_url": "https://flutteremailauth-ce438.firebaseio.com",
+    "project_id": "flutteremailauth-ce438",
+    "storage_bucket": "flutteremailauth-ce438.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429790073792:android:4221f1429ea923e79bae25",
+        "android_client_info": {
+          "package_name": "com.example.flutter_email_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "429790073792-e4vv8nrrbf90amqnmljubec47vlogktk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARFS4p59Y99ke4fopDsTA2U5bh64Wvunc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "429790073792-e4vv8nrrbf90amqnmljubec47vlogktk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
